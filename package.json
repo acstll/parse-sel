@@ -1,0 +1,32 @@
+{
+  "name": "parse-sel",
+  "version": "1.0.0",
+  "description": "Parse hyperscript selector strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acstll/parse-sel.git"
+  },
+  "keywords": [
+    "hyperscript",
+    "virtual",
+    "dom",
+    "html"
+  ],
+  "author": "acstll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acstll/parse-sel/issues"
+  },
+  "homepage": "https://github.com/acstll/parse-sel#readme",
+  "dependencies": {
+    "browser-split": "0.0.1"
+  },
+  "devDependencies": {
+    "standard": "^7.1.2",
+    "tape": "^4.5.1"
+  }
+}
